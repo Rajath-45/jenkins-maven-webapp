@@ -6,6 +6,6 @@
 <body>
     <h1>Welcome to Jenkins CI/CD Pipeline!</h1>
     <h2>Java Maven Web Application</h2>
-    <p>Automatically triggered by GitHub Webhook!</p>
+    <p>Automatically triggered by Poll-SCM!</p>
 </body>
 </html>
