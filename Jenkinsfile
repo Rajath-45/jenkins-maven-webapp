@@ -24,10 +24,5 @@ pipeline {
             }
         }
 
-        stage('Deploy to Tomcat') {
-            steps {
-                sh 'sudo /usr/local/sbin/deploy-jenkins-webapp'
-            }
-        }
     }
 }
